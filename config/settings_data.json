@@ -8,5 +8,14 @@
  * ------------------------------------------------------------
  */
 {
-  "current": {}
+  "current": {
+    "content_for_index": [],
+    "blocks": {
+      "15657990441685029394": {
+        "type": "shopify://apps/noticepro-alerts-countdowns/blocks/announcement_embed/01a10ae9-b5ab-72e7-aa58-426cfa508c64",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  }
 }
